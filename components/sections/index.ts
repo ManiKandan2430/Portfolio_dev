@@ -1,0 +1,10 @@
+export { default as HeroSection } from './HeroSection';
+export { default as AboutSection } from './AboutSection';
+export { default as SkillsSection } from './ServicesSection';
+export { default as WorkflowSection } from './ProcessSection';
+export { default as ProjectsSection } from './PortfolioSection';
+export { default as TechStackSection } from './TechStackSection';
+export { default as ExperienceSection } from './ExperienceSection';
+export { default as StatsSection } from './StatsSection';
+export { default as CTAStrip } from './CTAStrip';
+export { default as ContactSection } from './ContactSection';
